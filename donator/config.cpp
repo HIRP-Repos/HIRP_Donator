@@ -236,7 +236,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "The Honeypot Armband";
 		descriptionShort = "[DONATOR ITEM] Honeypot / Rain";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\rain\upgradedarmband_honeypot.paa","HiddenIsles_Donator\donator\rain\upgradedarmband_honeypot.paa","HiddenIsles_Donator\donator\rain\upgradedarmband_honeypot.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\rain\upgradedarmband_honeypot.paa"};
 	};
 	class HiddenIsles_Donator_ReaperPolo: FOG_Shirt_Polo_Blue
 	{
@@ -341,7 +341,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Torchivik Holdings Armband";
 		descriptionShort = "[DONATOR ITEM] Torchivik Holdings";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\koden\upgradedarmband_holdings.paa","HiddenIsles_Donator\donator\koden\upgradedarmband_holdings.paa","HiddenIsles_Donator\donator\koden\upgradedarmband_holdings.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\koden\upgradedarmband_holdings.paa"};
 	};
 	class HiddenIsles_Donator_WreckbornFlag: Flag_White
 	{
@@ -461,7 +461,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Bangers & Bangers Armband";
 		descriptionShort = "[DONATOR ITEM] Boone";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\boone\upgradedarmband_bangers.paa","HiddenIsles_Donator\donator\boone\upgradedarmband_bangers.paa","HiddenIsles_Donator\donator\boone\upgradedarmband_bangers.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\boone\upgradedarmband_bangers.paa"};
 	};
 	class HiddenIsles_Donator_BooneALVPatch: ALV_Patch_USA
 	{
@@ -503,7 +503,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "New Dawn Armband";
 		descriptionShort = "[DONATOR ITEM] New Dawn / Sylvester McDowell";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\newdawn\upgradedarmband_newdawn.paa","HiddenIsles_Donator\donator\newdawn\upgradedarmband_newdawn.paa","HiddenIsles_Donator\donator\newdawn\upgradedarmband_newdawn.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\newdawn\upgradedarmband_newdawn.paa"};
 	};
 	class HiddenIsles_Donator_NewDawnBigPatch: FOG_Big_Patch_Base
 	{
@@ -531,7 +531,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Blacktide Armband";
 		descriptionShort = "[DONATOR ITEM] Black Tide PMC / Cal";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\blacktide\upgradedarmband_Blacktide.paa","HiddenIsles_Donator\donator\blacktide\upgradedarmband_Blacktide.paa","HiddenIsles_Donator\donator\blacktide\upgradedarmband_Blacktide.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\blacktide\upgradedarmband_Blacktide.paa"};
 	};
 	class HiddenIsles_Donator_GhostMask_Blacktide: FOG_Ghost_Mask_Black
 	{
@@ -608,7 +608,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Vipers Armband";
 		descriptionShort = "[DONATOR ITEM] Vipers";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\vipers\upgradedarmband_vipers.paa","HiddenIsles_Donator\donator\vipers\upgradedarmband_vipers.paa","HiddenIsles_Donator\donator\vipers\upgradedarmband_vipers.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\vipers\upgradedarmband_vipers.paa"};
 	};
 	class HiddenIsles_Donator_HarbingerSkinnyJeans: Skinny_Jeans_Colorbase
 	{
@@ -646,7 +646,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Death Rattle Armband";
 		descriptionShort = "[DONATOR ITEM] Death Rattle / Russell";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\deathrattle\Upgradedarmband_DMRC.paa","HiddenIsles_Donator\donator\deathrattle\Upgradedarmband_DMRC.paa","HiddenIsles_Donator\donator\deathrattle\Upgradedarmband_DMRC.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\deathrattle\Upgradedarmband_DMRC.paa"};
 	};
 	class HiddenIsles_Donator_DeathRattleVest: ALV_BikerVest_Colorbase
 	{
@@ -880,7 +880,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Ravenhurst Armband";
 		descriptionShort = "[DONATOR ITEM] Ravenhurst";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\Ravenhurst\upgradedarmband_Ravenhurst.paa","HiddenIsles_Donator\donator\Ravenhurst\upgradedarmband_Ravenhurst.paa","HiddenIsles_Donator\donator\Ravenhurst\upgradedarmband_Ravenhurst.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\Ravenhurst\upgradedarmband_Ravenhurst.paa"};
 	};
 	class HiddenIsles_Donator_GeorgeVest: FOG_Vest_Thor_Tan
 	{
@@ -901,7 +901,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Green Boys Armband";
 		descriptionShort = "[DONATOR ITEM] Greenboys";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\greenboys\upgradedarmband_greenboys.paa","HiddenIsles_Donator\donator\greenboys\upgradedarmband_greenboys.paa","HiddenIsles_Donator\donator\greenboys\upgradedarmband_greenboys.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\greenboys\upgradedarmband_greenboys.paa"};
 	};
 	class HiddenIsles_Donator_GreenboysFlag: Flag_White
 	{
@@ -964,7 +964,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "New Hopes Armband";
 		descriptionShort = "[DONATOR ITEM] New Hope";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\newhope\upgradedarmband_newhope.paa","HiddenIsles_Donator\donator\newhope\upgradedarmband_newhope.paa","HiddenIsles_Donator\donator\newhope\upgradedarmband_newhope.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\newhope\upgradedarmband_newhope.paa"};
 	};
 	class HiddenIsles_Donator_SweetsDress: NurseDress_White
 	{
@@ -985,7 +985,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Remanants Armband";
 		descriptionShort = "[DONATOR ITEM] Remanant";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\remnant\upgradedarmband_remnant.paa","HiddenIsles_Donator\donator\remnant\upgradedarmband_remnant.paa","HiddenIsles_Donator\donator\remnant\upgradedarmband_remnant.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\remnant\upgradedarmband_remnant.paa"};
 	};
 	class Torvald_Ghost_Mask: FOG_Ghost_Mask_New_ColorBase
 	{
@@ -1140,21 +1140,21 @@ class CfgVehicles
 		scope = 2;
 		displayName = "STAG Armband";
 		descriptionShort = "Offical Armband of STAG Corporation";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\stag\upgradedarmband_STAG.paa","HiddenIsles_Donator\donator\stag\upgradedarmband_STAG.paa","HiddenIsles_Donator\donator\stag\upgradedarmband_STAG.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\stag\upgradedarmband_STAG.paa"};
 	};
 	class HiddenIsles_IO_Armband: ALV_UpgradedArmband_Black
 	{
 		scope = 2;
 		displayName = "Cult of IO Armband";
 		descriptionShort = "Offical Armband of the followers of IO";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\io\upgradedarmband_IO.paa","HiddenIsles_Donator\donator\io\upgradedarmband_IO.paa","HiddenIsles_Donator\donator\io\upgradedarmband_IO.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\io\upgradedarmband_IO.paa"};
 	};
 	class HiddenIsles_Donator_GroznyArmband: ALV_UpgradedArmband_Black
 	{
 		scope = 2;
 		displayName = "Groznys Armband";
 		descriptionShort = "[DONATOR ITEM] Grozny";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\grozny\upgradedarmband_grozny.paa","HiddenIsles_Donator\donator\grozny\upgradedarmband_grozny.paa","HiddenIsles_Donator\donator\grozny\upgradedarmband_grozny.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\grozny\upgradedarmband_grozny.paa"};
 	};
 	class HiddenIsles_STAGALVPatch: ALV_Patch_USA
 	{
@@ -1196,7 +1196,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Elk Ridge Armband";
 		descriptionShort = "[DONATOR ITEM] Elk Ridge";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\ElkRidge.paa","HiddenIsles_Donator\donator\elkridge\ElkRidge.paa","HiddenIsles_Donator\donator\elkridge\ElkRidge.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\ElkRidge.paa"};
 	};
 	class HiddenIsles_Donator_ElkRidgeFlag: Flag_White
 	{
@@ -1242,7 +1242,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Winters Cartel Armband";
 		descriptionShort = "[DONATOR ITEM] Winters Cartel";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\winters\upgradedarmband_winters.paa","HiddenIsles_Donator\donator\winters\upgradedarmband_winters.paa","HiddenIsles_Donator\donator\winters\upgradedarmband_winters.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\winters\upgradedarmband_winters.paa"};
 	};
 	class HiddenIsles_Donator_WintersFlag: Flag_White
 	{
@@ -1277,7 +1277,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Wildwood Armband";
 		descriptionShort = "[DONATOR ITEM] Wildwood";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\wildwood\upgradedarmband_Wildwood.paa","HiddenIsles_Donator\donator\wildwood\upgradedarmband_Wildwood.paa","HiddenIsles_Donator\donator\wildwood\upgradedarmband_Wildwood.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\wildwood\upgradedarmband_Wildwood.paa"};
 	};
 	class HiddenIsles_Donator_WildwoodFlag: Flag_White
 	{
@@ -1286,26 +1286,12 @@ class CfgVehicles
 		descriptionShort = "[DONATOR ITEM] Wildwood";
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\wildwood\Flag_Wildwood.paa","HiddenIsles_Donator\donator\wildwood\Flag_Wildwood.paa","HiddenIsles_Donator\donator\wildwood\Flag_Wildwood.paa"};
 	};
-	class HiddenIsles_Donator_SaviorsFlag: Flag_White
-	{
-		scope = 2;
-		displayName = "Saviors Flag";
-		descriptionShort = "[DONATOR ITEM] Saviors";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\savior\flag_saviors.paa","HiddenIsles_Donator\donator\savior\flag_saviors.paa","HiddenIsles_Donator\donator\savior\flag_saviors.paa"};
-	};
-	class HiddenIsles_Donator_SaviorsArmband: ALV_UpgradedArmband_Black
-	{
-		scope = 2;
-		displayName = "Saviors Armband";
-		descriptionShort = "[DONATOR ITEM] Saviors";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\savior\upgradedarmband_Saviors.paa","HiddenIsles_Donator\donator\savior\upgradedarmband_Saviors.paa","HiddenIsles_Donator\donator\savior\upgradedarmband_Saviors.paa"};
-	};
 	class HiddenIsles_Donator_UbiciArmband: ALV_UpgradedArmband_Black
 	{
 		scope = 2;
 		displayName = "Ubici Armband";
 		descriptionShort = "[DONATOR ITEM] Ubici";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\upgradedarmband_Ubici.paa","HiddenIsles_Donator\donator\ubici\upgradedarmband_Ubici.paa","HiddenIsles_Donator\donator\ubici\upgradedarmband_Ubici.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\upgradedarmband_Ubici.paa"};
 	};
 	class HiddenIsles_Donator_UbiciFlag: Flag_White
 	{

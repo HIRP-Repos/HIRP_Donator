@@ -24,7 +24,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Meridian Armband";
 		descriptionShort = "[DONATOR ITEM] Meridian";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\meridian\Data\upgradedarmband_meridian.paa","HiddenIsles_Donator\donator\meridian\Data\upgradedarmband_meridian.paa","HiddenIsles_Donator\donator\meridian\Data\upgradedarmband_meridian.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\meridian\Data\upgradedarmband_meridian.paa"};
 	};
 
     class HiddenIsles_Donator_MeridianFlag: Flag_White
@@ -32,7 +32,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Meridian Flag";
 		descriptionShort = "[DONATOR ITEM] Meridian";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\meridian\Data\Flag_meridian.paa","HiddenIsles_Donator\donator\meridian\Data\Flag_meridian.paa","HiddenIsles_Donator\donator\meridian\Data\Flag_meridian.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\meridian\Data\Flag_meridian.paa"};
 	};
 
     class HiddenIsles_Donator_Meridian_Vest_Black: FOG_Vest_MMAC_Base

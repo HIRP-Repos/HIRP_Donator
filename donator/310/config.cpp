@@ -147,7 +147,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "310th Upgraded Armband";
 		descriptionShort = "[DONATOR ITEM] 310 - An Armband worn by the 310th Military Police Brigade, a unit of the United States Army. On the inside tag it reads, Property of 310th Military Police Brigade, United States Department of the Army.";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\310\data\Clothing\upgradedarmband_310th.paa","HiddenIsles_Donator\donator\310\data\Clothing\upgradedarmband_310th.paa","HiddenIsles_Donator\donator\310\data\Clothing\upgradedarmband_310th.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\310\data\Clothing\upgradedarmband_310th.paa"};
 	};
 	class HiddenIsles_Donator_FOG_BigPatch_310th: FOG_Big_Patch_Base
 	{
