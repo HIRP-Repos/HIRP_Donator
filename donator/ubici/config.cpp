@@ -42,7 +42,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\flag_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\flag_Ubici.paa","HiddenIsles_Donator\donator\ubici\flag_Ubici.paa"};
 	};
 
-	class HiddenIsles_Donator_Ubici_Pants: FOG_UFP_Pants_Urban
+	class HiddenIsles_Donator_Ubici_PantsGreen: FOG_UFP_Pants_Urban
 	{
 		scope = 2;
 		displayName = "Ubici UFP Pants";
@@ -50,12 +50,28 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa"};
 	};
 
-    class HiddenIsles_Donator_UbiciJacket: FOG_Jacket_ArcteryxGryphon_Black
+    class HiddenIsles_Donator_UbiciJacketGreen: FOG_Jacket_ArcteryxGryphon_Black
 	{
 		scope = 2;
 		displayName = "Ubici's Arcteryx Jacket";
 		descriptionShort = "[DONATOR ITEM] Ubici";
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\arcteryx_gryphon_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\arcteryx_gryphon_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\arcteryx_gryphon_Ubici.paa"};
+	};
+
+	class HiddenIsles_Donator_Ubici_PantsGrey: FOG_UFP_Pants_Urban
+	{
+		scope = 2;
+		displayName = "Ubici UFP Pants";
+		descriptionShort = "[DONATOR ITEM] Ubici ";
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa"};
+	};
+
+    class HiddenIsles_Donator_UbiciJacketGrey: FOG_Jacket_ArcteryxGryphon_Black
+	{
+		scope = 2;
+		displayName = "Ubici's Arcteryx Jacket";
+		descriptionShort = "[DONATOR ITEM] Ubici";
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\UbiciShirtGrey.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciShirtGrey.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciShirtGrey.paa"};
 	};
 
 	class HiddenIsles_Donator_UbiciVest: FOG_Vest_MMAC_CB
