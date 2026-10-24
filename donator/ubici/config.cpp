@@ -47,7 +47,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Ubici UFP Pants";
 		descriptionShort = "[DONATOR ITEM] Ubici ";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa","HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa"};
+		hiddenSelectionsTextures[] = {"FOG_MOD\Clothes\Pants\FOG_Crye_G3Pants\Data\G3_Belt_Black_co.paa","FOG_MOD\Clothes\Pants\Urban_Fighter_pants\data\hero_kneepad_black_co.paa","HiddenIsles_Donator\donator\ubici\Data\ufp_black_Ubici.paa"};
 	};
 
     class HiddenIsles_Donator_UbiciJacketGreen: FOG_Jacket_ArcteryxGryphon_Black
@@ -63,7 +63,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Ubici UFP Pants";
 		descriptionShort = "[DONATOR ITEM] Ubici ";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa"};
+		hiddenSelectionsTextures[] = {"FOG_MOD\Clothes\Pants\FOG_Crye_G3Pants\Data\G3_Belt_Black_co.paa","FOG_MOD\Clothes\Pants\Urban_Fighter_pants\data\hero_kneepad_black_co.paa","HiddenIsles_Donator\donator\ubici\Data\UbiciPantsGrey.paa"};
 	};
 
     class HiddenIsles_Donator_UbiciJacketGrey: FOG_Jacket_ArcteryxGryphon_Black
