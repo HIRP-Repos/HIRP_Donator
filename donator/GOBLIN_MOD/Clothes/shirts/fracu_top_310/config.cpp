@@ -27,14 +27,14 @@ class CfgVehicles
 		
 		// Storage Size when stored inside another container/inventory (2x2 = 4 slots)
         itemSize[] = {2, 2};
-		heatIsolation = 1.0; // Maximum insulation
+		heatIsolation = 0.60000002; // Maximum insulation
         absorbency = 0.0;    // Will only get slightly Damp in rain and dries quickly
-		itemsCargoSize[] = {8, 8}; // 8 x 8 = 64 inventory slots
+		itemsCargoSize[] = {6, 5}; // 8 x 8 = 64 inventory slots
 		
         // You MUST map all three selections defined in the base class
         hiddenSelectionsTextures[] = 
         {
-            "\GOBLIN_MOD\Clothes\shirts\fracu_top_310\data\fracu_blouse_mc_310_co_v2.paa", // camo
+            "HIRP_Donator\donator\GOBLIN_MOD\Clothes\shirts\fracu_top_310\data\fracu_blouse_mc_310_co_v2.paa", // camo
             "",            // cuffs
             ""                                                                                  // personality (empty if not used)
         };
