@@ -619,21 +619,6 @@ class CfgVehicles
 		descriptionShort = "[DONATOR ITEM] John Dex Adams";
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\harbinger\skinny_jeans_Harbinger.paa","HiddenIsles_Retextures_files\clothing\pants\data\skein_ca.paa","HiddenIsles_Retextures_files\clothing\pants\data\skein2_ca.paa"};
 	};
-	class HiddenIsles_Donator_TommyMotoHelm: DarkMotoHelmet_Black
-	{
-		scope = 2;
-		displayName = "Tommy's Helmet";
-		descriptionShort = "[DONATOR ITEM] Tommy";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\tommy\MotoHelm_Tommy.paa","DZ\characters\headgear\data\MotoHelmetVisor_dark_co.paa"};
-	};
-	class HiddenIsles_Donator_TommyMotoHelm2: DarkMotoHelmet_YellowScarred
-	{
-		scope = 2;
-		displayName = "Tommy's Helmet with Nails";
-		descriptionShort = "[DONATOR ITEM] Tommy";
-		itemSize[] = {2,2};
-		hiddenSelectionsTextures[] = {"dz\characters\headgear\data\motohelmetvisor_dark_co.paa","dz\characters\headgear\data\motohelmetvisor_scarred_co.paa","HiddenIsles_Donator\donator\tommy\MotoHelm_Tommy.paa","HiddenIsles_Donator\donator\tommy\MotoHelm_Tommy.paa"};
-	};
 	class HiddenIsles_Donator_DeathRattleFlag: Flag_White
 	{
 		scope = 2;
@@ -1191,20 +1176,6 @@ class CfgVehicles
 		descriptionShort = "The Skull mask worn by The Seeker, one of IO's Chosen";
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\io\fog_knight_mask_black_CULT_co.paa","HiddenIsles_Donator\donator\io\fog_knight_mask_black_CULT_co.paa","HiddenIsles_Donator\donator\io\fog_knight_mask_black_CULT_co.paa"};
 	};
-	class HiddenIsles_Donator_ElkRidgeArmband: ALV_UpgradedArmband_Black
-	{
-		scope = 2;
-		displayName = "Elk Ridge Armband";
-		descriptionShort = "[DONATOR ITEM] Elk Ridge";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\ElkRidge.paa"};
-	};
-	class HiddenIsles_Donator_ElkRidgeFlag: Flag_White
-	{
-		scope = 2;
-		displayName = "Elk Ridge Flag";
-		descriptionShort = "[DONATOR ITEM] Elk Ridge";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\Elkridgeflag.paa","HiddenIsles_Donator\donator\elkridge\Elkridgeflag.paa","HiddenIsles_Donator\donator\elkridge\Elkridgeflag.paa"};
-	};
 	class HiddenIsles_Donator_Augustglasses: Round_glasses_black
 	{
 		scope = 2;
@@ -1250,40 +1221,5 @@ class CfgVehicles
 		displayName = "Winters Cartel Flag";
 		descriptionShort = "[DONATOR ITEM] Winters Cartel";
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\winters\irp_winters_flag.paa","HiddenIsles_Donator\donator\winters\irp_winters_flag.paa","HiddenIsles_Donator\donator\winters\irp_winters_flag.paa"};
-	};
-	class HiddenIsles_Donator_ElkRidgeBackpack: FOG_Bag_BlackJack_Black
-	{
-		scope = 2;
-		displayName = "ElkRidge BlackJack Backpack";
-		descriptionShort = "[DONATOR ITEM] ElkRidge";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\Mysterybj_Elk.paa"};
-	};
-	class HiddenIsles_Donator_ElkRidge_Gloves: Fingerless_Gloves
-	{
-		scope = 2;
-		displayName = "ElkRidge Gloves";
-		descriptionShort = "[DONATOR ITEM] ElkRidge";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\fingerless_glove_Elk.paa","HiddenIsles_Donator\donator\elkridge\fingerless_glove_Elk.paa","HiddenIsles_Donator\donator\elkridge\fingerless_glove_Elk.paa"};
-	};
-	class HiddenIsles_Donator_ElkRidge_Duster: ALV_Duster_Black
-	{
-		scope = 2;
-		displayName = "ElkRidge Duster";
-		descriptionShort = "[DONATOR ITEM] ElkRidge";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\elkridge\Duster_ElkR.paa","HiddenIsles_Donator\donator\elkridge\Duster_ElkR.paa","HiddenIsles_Donator\donator\elkridge\Duster_ElkR.paa"};
-	};
-	class HiddenIsles_Donator_WildwoodArmband: ALV_UpgradedArmband_Black
-	{
-		scope = 2;
-		displayName = "Wildwood Armband";
-		descriptionShort = "[DONATOR ITEM] Wildwood";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\wildwood\upgradedarmband_Wildwood.paa"};
-	};
-	class HiddenIsles_Donator_WildwoodFlag: Flag_White
-	{
-		scope = 2;
-		displayName = "Wildwood Flag";
-		descriptionShort = "[DONATOR ITEM] Wildwood";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\wildwood\Flag_Wildwood.paa","HiddenIsles_Donator\donator\wildwood\Flag_Wildwood.paa","HiddenIsles_Donator\donator\wildwood\Flag_Wildwood.paa"};
 	};
 };
