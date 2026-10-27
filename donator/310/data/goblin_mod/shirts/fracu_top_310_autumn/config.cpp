@@ -25,7 +25,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "310th Brigadier General's USGI FRACU Top";
 		descriptionShort = "A uniform top with the Insignia of the 310th Military Police Brigade a tag inside says [Property of the United States Army]";
-		hiddenSelectionsTextures[] = {"HiddenIsles_Retextures_files\clothing\donator\310\data\goblin_mod\shirts\fracu_top_310_autumn\data\fracu_blouse_mc_310_autumn_co_v2.paa","",""};
-		hiddenSelectionsMaterials[] = {"\FOG Mod pbo\FOG_MOD\Clothes\shirts\fracu_top\data\fracu_top.rvmat","",""};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\fracu_top_310_autumn\data\fracu_blouse_mc_310_autumn_co_v2.paa","",""};
+		hiddenSelectionsMaterials[] = {"FOG Mod pbo\FOG_MOD\Clothes\shirts\fracu_top\data\fracu_top.rvmat","",""};
 	};
 };

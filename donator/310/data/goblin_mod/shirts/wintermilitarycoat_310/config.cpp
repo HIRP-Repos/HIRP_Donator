@@ -26,7 +26,7 @@ class CfgVehicles
 		displayName = "310th Winter Coat";
 		descriptionShort = "A military winter coat with the Insignia of the 310th Military Police Brigade a tag inside says [Property of the United States Army]";
 		itemsCargoSize[] = {6,5};
-		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\wintermilitarycoat_310\data\wintermilitarycoat_brown_310_co.paa","HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\wintermilitarycoat_310\data\wintermilitarycoat_brown_310_co.paa","HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\wintermilitarycoat_310\data\wintermilitarycoat_brown_310_co.paa"};
+		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\wintermilitarycoat_310\data\wintermilitarycoat_grey_310_co.paa","HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\wintermilitarycoat_310\data\wintermilitarycoat_grey_310_co.paa","HiddenIsles_Donator\donator\310\data\goblin_mod\shirts\wintermilitarycoat_310\data\wintermilitarycoat_grey_310_co.paa"};
 		hiddenSelectionsMaterials[] = {"\dz\characters\tops\data\wintermilitarycoat.rvmat","\dz\characters\tops\data\wintermilitarycoat.rvmat","\dz\characters\tops\data\wintermilitarycoat.rvmat"};
 	};
 };
