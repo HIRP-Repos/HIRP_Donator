@@ -31,9 +31,9 @@ class CfgVehicles
 		
 		// Storage Size when stored inside another container/inventory (2x2 = 4 slots)
         itemSize[] = {2, 2};
-		heatIsolation = 0.89999998; // Maximum insulation
+		heatIsolation = 1.0; // Maximum insulation
         absorbency = 0.0;    // Will only get slightly Damp in rain and dries quickly
-		itemsCargoSize[] = {7, 6}; // 8 x 8 = 64 inventory slots
+		itemsCargoSize[] = {8, 8}; // 8 x 8 = 64 inventory slots
 		
         // You MUST map all three selections defined in the base class
         hiddenSelectionsTextures[] = 
