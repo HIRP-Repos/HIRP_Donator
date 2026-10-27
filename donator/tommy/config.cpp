@@ -15,8 +15,8 @@ class CfgVehicles
 {
     class DarkMotoHelmet_Black;
     class DarkMotoHelmet_YellowScarred;
-    class FOG_Shirt_UrbanUtilityJacket_Base;
-    class FOG_HeavyRiders_Jacket_ColorBase;
+    class FOG_Shirt_UrbanUtilityJacket_Black;
+    class FOG_HeavyRiders_Jacket_Black;
 
     class HiddenIsles_Donator_TommyMotoHelm: DarkMotoHelmet_Black
 	{
@@ -34,7 +34,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"dz\characters\headgear\data\motohelmetvisor_dark_co.paa","dz\characters\headgear\data\motohelmetvisor_scarred_co.paa","HiddenIsles_Donator\donator\tommy\data\MotoHelm_Tommy.paa","HiddenIsles_Donator\donator\tommy\data\MotoHelm_Tommy.paa"};
 	};
 
-    class HiddenIsles_Donator_TommyJacket: FOG_Shirt_UrbanUtilityJacket_Base
+    class HiddenIsles_Donator_TommyJacket: FOG_Shirt_UrbanUtilityJacket_Black
 	{
 		scope = 2;
         displayName = "Tommy's Jacket";
@@ -43,7 +43,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"HiddenIsles_Donator\donator\tommy\data\urban_utility_jacket_dark_Tommy.paa"};
 	};
 
-    class HiddenIsles_Donator_TommyJacketHeavyRiders: FOG_HeavyRiders_Jacket_ColorBase
+    class HiddenIsles_Donator_TommyJacketHeavyRiders: FOG_HeavyRiders_Jacket_Black
 	{
 		scope = 2;
         displayName = "Tommy's Heavy Rider Jacket";
