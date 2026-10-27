@@ -72,7 +72,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\black_cid_beret\310th_beret_black_CID_co.paa"
+			"GOBLIN_MOD\clothes\headgear\data\black_cid_beret\310th_beret_black_CID_co.paa"
 		};
 	};
 	class HiddenIsles_Donator_310th_softcap: FOG_SoftCap_MC
@@ -83,14 +83,14 @@ class CfgVehicles
 		
 		// Storage Size when stored inside another container/inventory (2x2 = 4 slots)
         itemSize[] = {2, 2};
-		heatIsolation = 0.30000001; // Maximum insulation
+		heatIsolation = 1.0; // Maximum insulation
         absorbency = 0.0;    // Will only get slightly Damp in rain and dries quickly
 		
 		hiddenSelectionsTextures[]=
 		{
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310\softcap_mc_310th_co.paa",
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310\softcap_mc_310th_co.paa",
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310\softcap_mc_310th_co.paa"
+			"HiddenIsles_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310\softcap_mc_310th_co.paa",
+			"HiddenIsles_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310\softcap_mc_310th_co.paa",
+			"HiddenIsles_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310\softcap_mc_310th_co.paa"
 		};
 	};
 		class HiddenIsles_Donator_310th_softcap_loss: FOG_SoftCap_MC
@@ -101,14 +101,14 @@ class CfgVehicles
 		
 		// Storage Size when stored inside another container/inventory (2x2 = 4 slots)
         itemSize[] = {2, 2};
-		heatIsolation = 0.30000001; // Maximum insulation
+		heatIsolation = 1.0; // Maximum insulation
         absorbency = 0.0;    // Will only get slightly Damp in rain and dries quickly
 		
 		hiddenSelectionsTextures[]=
 		{
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310_loss\softcap_mc_310th_co.paa",
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310_loss\softcap_mc_310th_co.paa",
-			"HIRP_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310_loss\softcap_mc_310th_co.paa"
+			"HiddenIsles_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310_loss\softcap_mc_310th_co.paa",
+			"HiddenIsles_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310_loss\softcap_mc_310th_co.paa",
+			"HiddenIsles_Donator\donator\GOBLIN_MOD\clothes\headgear\data\softcap_mc_310_loss\softcap_mc_310th_co.paa"
 		};
 	};
 };
