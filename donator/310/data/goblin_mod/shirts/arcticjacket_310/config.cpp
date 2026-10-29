@@ -38,16 +38,16 @@ class CfgVehicles
         // You MUST map all three selections defined in the base class
         hiddenSelectionsTextures[] = 
         {
-            "\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.paa", // camo
-            "\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.paa", // male
-            "\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.paa"  // female                                                                    // personality (empty if not used)
+            "HIRP_Donator\donator\310\data\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.paa", // camo
+            "HIRP_Donator\donator\310\data\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.paa", // male
+            "HIRP_Donator\donator\310\data\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.paa"  // female                                                                    // personality (empty if not used)
         };
 
         hiddenSelectionsMaterials[] = 
         {
-            "\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.rvmat",
-            "\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.rvmat",
-            "\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.rvmat"
+            "HIRP_Donator\donator\310\data\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.rvmat",
+            "HIRP_Donator\donator\310\data\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.rvmat",
+            "HIRP_Donator\donator\310\data\GOBLIN_MOD\Clothes\shirts\arcticjacket_310\data\arctic_jacket_310.rvmat"
         };
     };
 };
